@@ -3,7 +3,7 @@
 
 Menu layout:
 - Zones
--   Master Bedroom
+- - Master Bedroom
 -   Computer Room
 -   Upstairs Hallway
 -   Downstairs Hallway
