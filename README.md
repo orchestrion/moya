@@ -23,5 +23,16 @@ Video
 - All Off
 
 Home Settings
+- Users
+
+Devices
+- Raspi Light
+- Raspi Mirror
+- Raspi Clock
+
+Presets
+- Static settings
+- IFTTT settings
+
 
 And that's just the start...
