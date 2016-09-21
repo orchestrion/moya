@@ -3,21 +3,21 @@
 
 Menu layout:
 - Zones
--- Master Bedroom
--   Computer Room
--   Upstairs Hallway
--   Downstairs Hallway
--   Living Room
--   Dining Room
--   Kitchen
--   Basement
--   Front Porch
--   Back Porch
--   Driveway
+- - Master Bedroom
+- - Computer Room
+- - Upstairs Hallway
+- - Downstairs Hallway
+- - Living Room
+- - Dining Room
+- - Kitchen
+- - Basement
+- - Front Porch
+- - Back Porch
+- - Driveway
 - Audio
--   All Off
+- - All Off
 - Video
--   All Off
+- - All Off
 - Home Settings
 
 And that's just the start...
